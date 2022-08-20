@@ -30,13 +30,8 @@ func GetBio() Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 
-
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+    <img src="https://stackoverflow.com/users/19481657/mors-atra?tab=profile" alt="Mors Atra's Stack Overflow Profile" height="30" width="30">
   </a>
 
   <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
