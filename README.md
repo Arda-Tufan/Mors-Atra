@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Automatic Green Bean Cutter<br><br>🌱 I’m currently learning Ardunio<br><br>👨‍💻 All of my projects are available at my Github profile<br><br>💬 Ask me about python, C#<br><br>📫 How to reach me ardatufan2008@gmail.com<br><br>⚡ Fun fact During World War II, a Great Dane named Juliana was awarded the Blue Cross Medal. She extinguished an incendiary bomb by peeing on it!
+
+# **Hello World!**
+
+🔭 I’m currently working on Automatic Green Bean Cutter<br><br>🌱 I’m currently learning Ardunio<br><br>💬 Ask me about Python, C#<br><br>⚡ Fun fact During World War II, a Great Dane named Juliana was awarded the Blue Cross Medal. She extinguished an incendiary bomb by peeing on it!
 
 
 ## 🌐 Socials:
